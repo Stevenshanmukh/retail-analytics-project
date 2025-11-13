@@ -1,0 +1,17 @@
+# Data Files
+
+Full datasets not included due to size (1M+ records).
+
+## Data Structure:
+- fact_sales.csv: 1,000,000 transaction records
+- dim_customer.csv: 9,191 customers
+- dim_item.csv: 264 products
+- dim_store.csv: 726 stores
+- dim_time.csv: 99,999 time records
+- dim_payment.csv: 39 payment methods
+
+## To Access Data:
+Contact: stevenlagadapati1012@gmail.com
+
+## Schema Details:
+See project documentation for complete data dictionary.
